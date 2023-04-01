@@ -5,7 +5,7 @@
 
 
 
-## Authors
+## Authors (Team - Anharmonica)
 
 - [@Piyush Paliwal](https://github.com/paliwalpiyush151)
 - Yash Mandlecha
