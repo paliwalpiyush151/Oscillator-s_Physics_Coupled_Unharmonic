@@ -1,2 +1,14 @@
-# Oscillator-s_Physics_Coupled_Unharmonic
-This is mini research project carried out in course of ''Computational Thinking through Physics.''
+# Mini Project - Coupled Anharmonic Oscillators: Damped and Forced
+
+- In this team mini project, we have studied different oscillatory systems found in nature and simulated its behaviour with its oscillatory equations keeping in mind damping coefficient and other factors.   
+- 4th order Runga Kutta method is used to study physics of the different coupled systems. 
+
+
+
+## Authors
+
+- [@Piyush Paliwal](https://github.com/paliwalpiyush151)
+- Yash Mandlecha
+- Niraj Atale
+- Ruchir Gupta
+
